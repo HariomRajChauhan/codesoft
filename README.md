@@ -1,4 +1,4 @@
-# codesoft
+# CodeSoft
 this is for my level 1
 
 ## Landing Page (Task 1)
